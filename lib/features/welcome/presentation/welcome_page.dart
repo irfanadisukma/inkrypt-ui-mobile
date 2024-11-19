@@ -58,7 +58,7 @@ class _WelcomePageState extends State<WelcomePage> {
                             color: AppColors.blueColor
                           ),
                           child: Image.asset(
-                            'assets/images/ic-arrow.png',
+                            icArrow,
                             width: 16,
                           ),
                         ),

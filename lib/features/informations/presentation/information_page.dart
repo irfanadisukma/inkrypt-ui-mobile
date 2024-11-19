@@ -70,7 +70,6 @@ class InformationPage extends StatelessWidget {
                       height: 16,
                     ),
                 
-                
                     InformationCardWidget(
                       title: 'Terms & Condition',
                       icon: '',
